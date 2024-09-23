@@ -1,12 +1,8 @@
-# CS760
-All the work that I do for the Machine Learning Course
-
-
-## hw1: Revisiting Mathematics
+# Revisiting Mathematics
 
 This assignment revisits various sections of Mathematics that will be helpful in the course.
 
-### Sections:
+## Sections:
 - Vectors and Matrices
 - Calculus
 - Probability and Statistics
