@@ -1,0 +1,11 @@
+digraph {
+	0 [label="Feature 0 >= 10.0" shape=box]
+	0 -> 1 [label=True]
+	1 [label="Predict: 1.0" color=lightblue shape=ellipse style=filled]
+	0 -> 2 [label=False]
+	2 [label="Feature 1 >= 3.0" shape=box]
+	2 -> 5 [label=True]
+	5 [label="Predict: 1.0" color=lightblue shape=ellipse style=filled]
+	2 -> 6 [label=False]
+	6 [label="Predict: 0.0" color=lightblue shape=ellipse style=filled]
+}

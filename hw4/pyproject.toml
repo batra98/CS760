@@ -1,0 +1,11 @@
+[project]
+name = "hw4"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.9.2",
+    "numpy>=2.1.2",
+    "torchvision>=0.20.0",
+]

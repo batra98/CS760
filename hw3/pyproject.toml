@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "solution"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+matplotlib = "^3.9.2"
+pandas = "^2.2.3"
+jinja2 = "^3.1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
